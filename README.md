@@ -6,7 +6,7 @@
 <a href="https://twitter.com/heismekb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heismekb" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/heismebk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/heismebk/" height="30" width="40" /></a>
 <a href="https://instagram.com/heismebk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heismebk" height="30" width="40" /></a>
-<a href="/berkaykocak.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="berkaykocak.com" height="30" width="40" /></a>
+<a href="https://berkaykocak.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="heismebk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
